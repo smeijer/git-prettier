@@ -1,0 +1,3 @@
+*.ts       filter=git-prettier
+*.tsx      filter=git-prettier
+*.js       filter=git-prettier
