@@ -18,8 +18,8 @@
     "prepublishOnly": "pinst --enable",
     "postpublish": "pinst --disable"
   },
-  "bin": "./lib/index.js",
-  "main": "./lib/index.js",
+  "bin": "./index.js",
+  "main": "./index.js",
   "source": "./src/index.ts",
   "license": "MIT",
   "devDependencies": {
